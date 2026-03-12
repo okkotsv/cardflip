@@ -1,8 +1,11 @@
 :root {
   --primary: #cdb4db;
   --secondary: #ffc8dd;
-  --dark: #191919;
+  --dark: #bde0fe;
   --light: #ffafcc;
+}
+body {
+ background: #FFEBEE
 }
 
 * {
@@ -124,6 +127,3 @@ body {
   line-height: 1.4;
 }
 
-body {
- background: #FFEBEE
-}
