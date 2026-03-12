@@ -4,9 +4,6 @@
   --dark: #bde0fe;
   --light: #ffafcc;
 }
-body {
- background: #FFEBEE
-}
 
 * {
   margin: 0;
@@ -17,6 +14,7 @@ body {
   font-family: montserrat, sans-serif;
   width: 100%;
   min-height: 100vh;
+  background: #FFEBEE
 }
 
 .card {
